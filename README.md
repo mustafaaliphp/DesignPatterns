@@ -13,6 +13,7 @@ Advantages:
 1-Single point of contact for operations under same category
 2-Complexity gets removed
 
+![facade](https://user-images.githubusercontent.com/53540870/137239128-5b564636-719a-4fee-a01d-ea25595d6bd3.PNG)
 # Factory pattern
 Factory design pattern is a creational design pattern that allows to create object without exposing the creation logic to the 
 client and refer to newly created object using a common interface.
@@ -20,3 +21,5 @@ client and refer to newly created object using a common interface.
 Advantages:
 1- Avoid duplicate code for aobject creation.
 2- Consumer has to only consume the object without worrying how it was created.
+
+![factory](https://user-images.githubusercontent.com/53540870/137239113-30016bc4-c6c9-425c-9dd9-97545418bbee.PNG)
